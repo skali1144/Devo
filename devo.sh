@@ -1,6 +1,7 @@
 #!/bin/bash
 ECHO"Running devo.sh..."
-ECHO"if it asks for your password write the password of your login system."
+ECHO" if it asks for your password write the password of your login system."
+sleep 5
 sudo apt update
 sudo apt upgrade
 sudo apt install kali-linux-everything
