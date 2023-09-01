@@ -5,6 +5,8 @@ sleep 5
 sudo apt update
 sudo apt upgrade
 sudo apt install kali-linux-everything
+brew update
+brew upgrade
 brew install metasploit
 brew install wireshark
 brew install hydra
