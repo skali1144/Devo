@@ -1,1 +1,2 @@
-# Devo
+this tool installs all kali linux hacking tools for linux and for macos it installs supported tools that uses the system requirements.
+before running it install python and make sure you have a bash command-line / terminal. this tool is not supported for Windows users but we will try to make one for Windows Users, macos Users and Linux Users this tool is not fully finished we are trying to get more supported tools for it and we are not going to update you guys with info becuase updating info might let us take time to write info updates. Rmember this tool installs illegal tools in your system don't use this tool for wrong or misuse and don't blame the owner of this tool.
